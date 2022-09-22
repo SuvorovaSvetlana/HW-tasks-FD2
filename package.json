@@ -1,0 +1,19 @@
+{
+  "name": "hw-tasks-fd2",
+  "version": "1.0.0",
+  "description": "IT Academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuvorovaSvetlana/HW-tasks-FD2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuvorovaSvetlana/HW-tasks-FD2/issues"
+  },
+  "homepage": "https://github.com/SuvorovaSvetlana/HW-tasks-FD2#readme"
+}
