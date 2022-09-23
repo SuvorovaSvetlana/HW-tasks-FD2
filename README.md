@@ -1,2 +1,1 @@
-# HW-tasks-FD2
-IT Academy
+# mentoring-simple-webpack-starter
